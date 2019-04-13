@@ -32,10 +32,10 @@ library(ggplot2)
 # Chaves de autenticação no Twitter
 # Essas chaves podem ser obtidas em https://developer.twitter.com.
 # ** É necessário possuir uma conta Developer do Twitter.
-consumer_key <- "vHG5kfrtK6VQ8naJhqjaKn2x7"
-consumer_secret <- "DVuZ1W3Ye6qzGidx1uonFWNWchowrhlv5I21FNoy2dKL5ckKlo"
-acess_token <- "475184897-O53I0UByt6PQ8qcxTg4QnvVI8eBXvyqRWqqtaBBY"
-acess_tokensecret <- "mlK5CCjsdWEyGTtzppdltCJmdnfOZ06rkSmPaMifEYaGP"
+consumer_key <- "{COLOQUE AQUI A CHAVE OBTIDA NO TWITTER}"
+consumer_secret <- "{COLOQUE AQUI A CHAVE OBTIDA NO TWITTER}"
+acess_token <- "{COLOQUE AQUI A CHAVE OBTIDA NO TWITTER}"
+acess_tokensecret <- "{COLOQUE AQUI A CHAVE OBTIDA NO TWITTER}"
 
 # Autenticação. Responda 1 quando perguntado sobre utilizar direct connection.
 setup_twitter_oauth(consumer_key, consumer_secret, acess_token, acess_tokensecret)
