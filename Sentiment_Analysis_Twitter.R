@@ -3,7 +3,7 @@
 #Este projeto é parte integrante do curso Big Data Analytics com R e Microsoft Azure da Formação Cientista de Dados. 
 #O objetivo é captutar dados da rede social Twitter e realizar análise de sentimentos com os dados capturados. 
 #Para que este projeto possa ser executado, diversos pacotes devem ser instalados e carregados.
-setwd("C:/Users/rafae/OneDrive/FilestoStudy/Formacao_Cientista_Dados/BigDataRAzure/Cap17_Mini_Projeto_AnaliseSentimento_RedesSociais/Solucao_Mini-Projeto")
+setwd("~/Cap17_Mini_Projeto_AnaliseSentimento_RedesSociais/Solucao_Mini-Projeto")
 
 options(warn=-1)
 
